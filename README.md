@@ -1,5 +1,5 @@
 # Lucky_Number_App
-The app name is Lucky Number so anyone can find their lucky number by typing their names and it will generate the Lucky Number.
+The Android App name is Lucky Number so anyone can find their lucky number by typing their names and it will generate the Lucky Number.
 <br>
 And the user can share their lucky number where they want to share.
 <br>
